@@ -74,6 +74,11 @@ SUBLIME TEXT 3
 ### Microsoft Visual Studio
 [Download](https://www.visualstudio.com/downloads/)
 
+## 文档查看
+### Zeal
+[Download](https://zealdocs.org/download.html)
+[Github](https://github.com/jkozera/zeal.git)
+
 ## Game Engine
 ### Unreal
 [Website](https://www.unrealengine.com/en-US/blog)

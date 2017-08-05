@@ -54,6 +54,7 @@ SUBLIME TEXT 3
 * Pretty JSON
 * Todo
 * WordCount
+* FileDiffs
 
 ### Atom
 [Website](https://atom.io/)

@@ -54,6 +54,7 @@ SUBLIME TEXT 3
 * Pretty JSON
 * Todo
 * WordCount
+* FileDiffs
 * Zeal [Github](https://github.com/vaanwd/Zeal)
 
 ### Atom

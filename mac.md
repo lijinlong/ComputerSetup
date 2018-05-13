@@ -35,7 +35,13 @@
 ### VLC
 [Website](https://www.videolan.org/vlc/index.zh.html)
 ### MPlayerX
-[](http://mplayerx.org)
+[Website](http://mplayerx.org)
+
+## 即时通讯
+### WeChat
+[Website](https://www.wechat.com/en/)
+### QQ
+[Website](https://im.qq.com/download/)
 
 ## Text Editor
 ### Sublime Text 3

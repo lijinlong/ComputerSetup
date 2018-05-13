@@ -37,6 +37,12 @@
 ### MPlayerX
 [](http://mplayerx.org)
 
+## 即时通讯
+### WeChat
+[Website](https://www.wechat.com/en/)
+### QQ
+[Website](https://im.qq.com/download/)
+
 ## Text Editor
 ### Sublime Text 3
 [Download](http://www.sublimetext.com/3)

@@ -6,3 +6,6 @@ How to setup a computer, softwares needed to install on your computer
 
 ## Mac
 [Mac](mac.md)
+
+## Website
+[Web](web.md)

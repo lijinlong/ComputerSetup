@@ -52,6 +52,11 @@ https://china.paragon-software.com/home-mac/ntfs-for-mac/
 ### QQ
 [Website](https://im.qq.com/download/)
 
+## 合理休息
+### stretchly
+[Website](https://hovancik.net/stretchly/downloads/)
+
+
 ## Text Editor
 ### Sublime Text 3
 [Download](http://www.sublimetext.com/3)

@@ -8,12 +8,21 @@
 * SimpleUndoClose
 * Xmarks Bookmark Sync
 * 印象笔记-剪藏
+* Bookmarks Clean up
+* Free Download Manager (需额外下载安装FDM软件)
+* Grammarly for Chrome
+* 常用工具(ToolBox)
 
 ### Firefox
 [Downoad](https://www.mozilla.org/en-US/firefox/?utm_medium=referral&utm_source=firefox-com)
 
 ### Bookmarks
 [书签](contents/bookmarks_2017_10_9.html)
+
+## 读取NTFS分区
+### Tuxera NTFS for Mac
+### Microsoft NTFS for Mac by Paragon Software
+https://china.paragon-software.com/home-mac/ntfs-for-mac/
 
 ## 压缩软件
 ### keka

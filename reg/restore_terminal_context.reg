@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\WindowsTerminal]
+@="在此处打开 Windows Terminal"
+"Icon"="wt.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\WindowsTerminal\command]
+@="wt.exe -d \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminal]
+@="在此处打开 Windows Terminal"
+"Icon"="wt.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\WindowsTerminal\command]
+@="wt.exe -d ."

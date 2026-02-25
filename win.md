@@ -39,7 +39,10 @@
 ### VLC
 [Website](https://www.videolan.org/vlc/index.zh.html)
 ### MPlayerX
-[](http://mplayerx.org)
+[Website](http://mplayerx.org)
+### PotPlayer
+[Website](https://potplayer.daum.net/)
+
 
 ## 即时通讯
 ### WeChat
